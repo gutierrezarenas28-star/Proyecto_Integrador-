@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema Integrador de Volúmenes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c5ee82ebba3c812d0673177e7500316f039dec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema Integrador de Volúmenes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema Integrador de Volúmenes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

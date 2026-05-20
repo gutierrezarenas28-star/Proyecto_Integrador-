@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA4285E8-45D2-434D-B86E-B34EFDC0D7B1}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|c:\\users\\cocho\\downloads\\git hub proyecto\\proyecto_integrador-\\sistema integrador de vol\u00FAmenes\\sistema integrador de vol\u00FAmenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AA4285E8-45D2-434D-B86E-B34EFDC0D7B1}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|solutionrelative:sistema integrador de vol\u00FAmenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|c:\\users\\cocho\\downloads\\git hub proyecto\\proyecto_integrador-\\sistema integrador de vol\u00FAmenes\\sistema integrador de vol\u00FAmenes\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|solutionrelative:sistema integrador de vol\u00FAmenes\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|c:\\users\\cocho\\downloads\\git hub proyecto\\proyecto_integrador-\\sistema integrador de vol\u00FAmenes\\sistema integrador de vol\u00FAmenes\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|solutionrelative:sistema integrador de vol\u00FAmenes\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|c:\\users\\cocho\\downloads\\git hub proyecto\\proyecto_integrador-\\sistema integrador de vol\u00FAmenes\\sistema integrador de vol\u00FAmenes\\modelos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|solutionrelative:sistema integrador de vol\u00FAmenes\\modelos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\sistema integrador de vol\u00FAmenes\\vistas\\logui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A211087-6090-364B-B4D8-FF19E2F35B5D}|Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes.csproj|solutionrelative:sistema integrador de vol\u00FAmenes\\vistas\\logui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Form1.cs",
-              "RelativeDocumentMoniker": "Sistema Integrador de Vol\u00FAmenes\\Form1.cs",
-              "ToolTip": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema Integrador de Vol\u00FAmenes\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Rol.cs",
+              "RelativeDocumentMoniker": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Rol.cs",
+              "ToolTip": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Rol.cs",
+              "RelativeToolTip": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T18:12:31.749Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-05-20T20:29:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logui.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Vistas\\Logui.cs",
+              "RelativeDocumentMoniker": "Sistema Integrador de Vol\u00FAmenes\\Vistas\\Logui.cs",
+              "ToolTip": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Vistas\\Logui.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema Integrador de Vol\u00FAmenes\\Vistas\\Logui.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:39:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Persona.cs",
+              "RelativeToolTip": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Persona.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:37:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\cocho\\Downloads\\Git Hub Proyecto\\Proyecto_Integrador-\\Sistema Integrador de Vol\u00FAmenes\\Sistema Integrador de Vol\u00FAmenes\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Sistema Integrador de Vol\u00FAmenes\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:37:11.504Z",
+              "EditorCaption": ""
             }
           ]
         }
